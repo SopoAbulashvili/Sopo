@@ -1,0 +1,29 @@
+
+
+h1 {color: #E0B0FF;}
+
+p {color: #F5B7B1;}
+
+
+ol {color: #E0B0FF;}
+
+footer {background-color: #eaeaea ;}
+
+header  {background-color:#fff5ff ;justify-content: space-between;
+     align-items: center; padding: 10px 30px; margin: 25px;}
+
+footer p {color: #7493A8;}
+
+strong {color: #7493A8;}
+
+.color { color: #7493A8;}
+
+ #img    {width: 800px ;
+height: auto;}
+
+#logo {width: 200px;
+height: auto;}
+
+ul, header {display: flex;}
+
+ul {list-style: none; gap: 85px ;}
